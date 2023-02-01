@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f53423345540282479738b3d4250e168, type: 3}
+  m_Name: ArcaneBlaster - Gun
+  m_EditorClassIdentifier: 
+  id: Arcane Blaster
+  icon: {fileID: 21300000, guid: 53f8855170334a942b75f9d4b4014bf7, type: 3}
+  damage: 30
+  range: 35
+  bulletStats: {fileID: 11400000, guid: 6549697f706eadf49aaaa6b7dce78b83, type: 2}
+  Model: {fileID: 1945561456980628829, guid: ad217d7f65574fe45b021fc37d320401, type: 3}
+  Impact: {fileID: 8267551261060619624, guid: 1b102d6fe5945254f9d3ac27ff15d17c, type: 3}

@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f53423345540282479738b3d4250e168, type: 3}
   m_Name: ProtoRifle - Gun
   m_EditorClassIdentifier: 
-  id: ProtoRifle
+  id: Proto Rifle
   icon: {fileID: 21300000, guid: c60e39f3481829449ac69add6e039518, type: 3}
   damage: 15
   range: 20
   bulletStats: {fileID: 11400000, guid: 1cfa6897d0cefd34e858bd3b5a907ce2, type: 2}
   Model: {fileID: 3512002494110191256, guid: 514bdeec0558ce64690bed37ce3bf1d7, type: 3}
+  Impact: {fileID: 8940181669947955296, guid: 74b99606cd974034abc09326c25eb7b2, type: 3}

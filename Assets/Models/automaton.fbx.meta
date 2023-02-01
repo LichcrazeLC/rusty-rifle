@@ -99,8 +99,8 @@ ModelImporter:
       name: Armature|Equip
       takeName: Armature|Equip
       internalID: 8391499085936399799
-      firstFrame: 0
-      lastFrame: 30
+      firstFrame: 1
+      lastFrame: 10
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

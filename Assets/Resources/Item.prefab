@@ -37,7 +37,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 25, y: 9.5}
-  m_SizeDelta: {x: 57.6669, y: 30.8667}
+  m_SizeDelta: {x: 71.428, y: 30.8667}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3309614400045852379
 CanvasRenderer:
@@ -407,7 +407,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.647583, y: -1.5333481}
+  m_AnchoredPosition: {x: 8.3, y: -1.5333481}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3309614401596004053
@@ -438,7 +438,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ProtoRifle
+  m_text: Arcane Blaster
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3dda20fe85783734b8095c65920d7a48, type: 2}
   m_sharedMaterial: {fileID: 6016308175485802158, guid: 3dda20fe85783734b8095c65920d7a48, type: 2}
@@ -477,7 +477,7 @@ MonoBehaviour:
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
-  m_lineSpacing: 0
+  m_lineSpacing: -40
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
@@ -501,7 +501,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 73.46745, y: 16.501368, z: 70.48038, w: 22.348932}
+  m_margin: {x: 54.300243, y: 8.039935, z: 70.48038, w: 11.126589}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
